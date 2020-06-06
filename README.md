@@ -1,2 +1,2 @@
-# weather.github.io
+# weatherproject
 Weather project
